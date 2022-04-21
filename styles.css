@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.section1{
+    background-color: hsl(218, 28%, 13%);
+
+}
+.navitems{
+    padding: 1rem 3rem;
+}
+.navitems img{
+     height: 2rem;
+}
+.navitems ul{
+    list-style-type: none;
+    float: right;
+    padding-top: 0.5rem;
+    
+}
+
+.navitems li{
+    color: white;
+    display: inline-block;
+    margin-right: 2rem;
+}
+
+.illustration-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.illustration-img h1{
+    text-align: center;
+    color: white;
+}
+
