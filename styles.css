@@ -40,3 +40,21 @@
     color: white;
 }
 
+.illustration-img p{
+    color:white;
+    text-align: center;
+   
+}
+
+.illustration-img .btn{
+    width: 200px;
+    padding: 10px;;
+    background-color: hsl(176,68%,64%);
+    color: white;
+    border:none;
+    text-align: center;
+    border-radius: 20px;
+    
+
+}
+
